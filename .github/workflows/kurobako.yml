@@ -20,7 +20,7 @@ jobs:
         sampler: [RandomSampler, TPESampler]
         pruner: [MedianPruner, HyperbandPruner, NopPruner]
 
-    if: github.repository == 'optuna/optuna'
+    # if: github.repository == 'optuna/optuna'
 
     steps:
     - uses: actions/checkout@v2
