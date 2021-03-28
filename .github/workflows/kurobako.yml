@@ -2,6 +2,9 @@ name: kurobako
 
 # TODO: Discuss the trigger configuration
 on:
+  push:
+      branches:
+        - master
   pull_request: {}
 
 jobs:
