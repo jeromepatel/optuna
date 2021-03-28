@@ -19,11 +19,17 @@ jobs:
         problem: [hpobench-protein, nasbench]
         sampler: [RandomSampler, TPESampler]
         pruner: [MedianPruner, HyperbandPruner, NopPruner]
+        python-version: [3.7]
 
     # if: github.repository == 'optuna/optuna'
 
     steps:
     - uses: actions/checkout@v2
+
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v2
+      with:
+        python-version: ${{ matrix.python-version }}
 
     - name: Install gnuplot
       run: |
