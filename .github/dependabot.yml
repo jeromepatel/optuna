@@ -3,7 +3,7 @@
 # Please see the documentation for all configuration options:
 # https://help.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
 # This is an example with only required properties:
-version: 2
+version: 1
 update_configs:
   - package_manager: "python"
     directory: "/"
