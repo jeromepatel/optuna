@@ -42,7 +42,7 @@ jobs:
     - name: Publish distribution to TestPyPI
       # The following upload action cannot be executed in the forked repository.
       if: (github.repository == 'optuna/optuna') && (github.event_name == 'schedule')
-      uses: pypa/gh-action-pypi-publish@v1.1.0
+      uses: pypa/gh-action-pypi-publish@v1.4.2
       with:
         user: __token__
         password: ${{ secrets.test_pypi_password }}
@@ -51,7 +51,7 @@ jobs:
     - name: Publish distribution to PyPI
       # The following upload action cannot be executed in the forked repository.
       if: (github.repository == 'optuna/optuna') && (github.event_name == 'release')
-      uses: pypa/gh-action-pypi-publish@v1.1.0
+      uses: pypa/gh-action-pypi-publish@v1.4.2
       with:
         user: __token__
         password: ${{ secrets.pypi_password }}
