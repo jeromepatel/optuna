@@ -22,7 +22,7 @@ jobs:
       with:
         python-version: ${{ matrix.python-version }}
     - name: Setup cache
-      uses: actions/cache@v2
+      uses: actions/cache@v2.1.4
       env:
         cache-name: daily-example
       with:
