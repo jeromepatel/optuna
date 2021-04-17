@@ -1,4 +1,4 @@
-name: Update Dependencies
+name: Create Auto Pull Request
 on:
   push:
     branches:
@@ -25,4 +25,5 @@ jobs:
           commit-message: update authors
           title: Update AUTHORS
           body: Credit new contributors by updating AUTHORS
+          base: master
           branch: update-authors
