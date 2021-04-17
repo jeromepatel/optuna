@@ -86,7 +86,7 @@ jobs:
     
     - name: Run Benchmark
       run: |
-        python run_kurobako.py --name "CI"  --input-dir "." --output-dir "out" --sampler-list ${{ matrix.sampler }} --pruner-list ${{ matrix.pruner }} --problem-list ${{ matrix.problem }} --plot
+        python run_kurobako.py --name "CI" --kurobako-path "." --input-dir "." --output-dir "out" --sampler-list ${{ matrix.sampler }} --pruner-list ${{ matrix.pruner }} --problem-list ${{ matrix.problem }} --plot
     - uses: actions/upload-artifact@v2
       with:
         name: benchmark-report
