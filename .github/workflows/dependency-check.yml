@@ -18,9 +18,9 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install --use-deprecated=legacy-resolver --progress-bar off pip-check
-          pip install --use-deprecated=legacy-resolver --progress-bar off .[integration]
+          pip install --use-deprecated=legacy-resolver --progress-bar off .[integration] -f https://download.pytorch.org/whl/torch_stable.html
 
-      - name: RUn Pip-check
+      - name: Run Pip-check
         run: |
           pip-check - H > Pip-updates
       - name: Create Pull Request
