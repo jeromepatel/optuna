@@ -9,7 +9,7 @@ jobs:
   update-dep:
     runs-on: ubuntu-latest
 
-    # Not intended for forks.
+    # Only intended for forks.
     if: github.repository == 'jeromepatel/optuna'
 
     steps:
