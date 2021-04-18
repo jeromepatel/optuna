@@ -1,0 +1,75 @@
+Loading package versions...
+
+(0lqqqqqqqqqqqqqqqqqqqqqqwqqqqqqqqqqqqwqqqqqqqqqqqwqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqk(B
+(0x(B [91mMajor Release Update[39m (0x(B Version    (0x(B Latest    (0x(B                                                 (0x(B
+(0tqqqqqqqqqqqqqqqqqqqqqqnqqqqqqqqqqqqnqqqqqqqqqqqnqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqu(B
+(0x(B attrs                (0x(B 19.3.0     (0x(B 20.3.0    (0x(B https://pypi.python.org/pypi/attrs              (0x(B
+(0x(B Automat              (0x(B 0.8.0      (0x(B 20.2.0    (0x(B https://pypi.python.org/pypi/Automat            (0x(B
+(0x(B catalogue            (0x(B 1.0.0      (0x(B 2.0.3     (0x(B https://pypi.python.org/pypi/catalogue          (0x(B
+(0x(B certifi              (0x(B 2019.11.28 (0x(B 2020.12.5 (0x(B https://pypi.python.org/pypi/certifi            (0x(B
+(0x(B chardet              (0x(B 3.0.4      (0x(B 4.0.0     (0x(B https://pypi.python.org/pypi/chardet            (0x(B
+(0x(B cryptography         (0x(B 2.8        (0x(B 3.4.7     (0x(B https://pypi.python.org/pypi/cryptography       (0x(B
+(0x(B hyperlink            (0x(B 19.0.0     (0x(B 21.0.0    (0x(B https://pypi.python.org/pypi/hyperlink          (0x(B
+(0x(B idna                 (0x(B 2.8        (0x(B 3.1       (0x(B https://pypi.python.org/pypi/idna               (0x(B
+(0x(B importlib-metadata   (0x(B 1.5.0      (0x(B 4.0.0     (0x(B https://pypi.python.org/pypi/importlib-metadata (0x(B
+(0x(B incremental          (0x(B 16.10.1    (0x(B 21.3.0    (0x(B https://pypi.python.org/pypi/incremental        (0x(B
+(0x(B keyring              (0x(B 18.0.1     (0x(B 23.0.1    (0x(B https://pypi.python.org/pypi/keyring            (0x(B
+(0x(B more-itertools       (0x(B 4.2.0      (0x(B 8.7.0     (0x(B https://pypi.python.org/pypi/more-itertools     (0x(B
+(0x(B PyHamcrest           (0x(B 1.9.0      (0x(B 2.0.2     (0x(B https://pypi.python.org/pypi/PyHamcrest         (0x(B
+(0x(B PyJWT                (0x(B 1.7.1      (0x(B 2.0.1     (0x(B https://pypi.python.org/pypi/PyJWT              (0x(B
+(0x(B pyOpenSSL            (0x(B 19.0.0     (0x(B 20.0.1    (0x(B https://pypi.python.org/pypi/pyOpenSSL          (0x(B
+(0x(B SecretStorage        (0x(B 2.3.1      (0x(B 3.3.1     (0x(B https://pypi.python.org/pypi/SecretStorage      (0x(B
+(0x(B setuptools           (0x(B 45.2.0     (0x(B 56.0.0    (0x(B https://pypi.python.org/pypi/setuptools         (0x(B
+(0x(B spacy                (0x(B 2.3.5      (0x(B 3.0.5     (0x(B https://pypi.python.org/pypi/spacy              (0x(B
+(0x(B srsly                (0x(B 1.0.5      (0x(B 2.4.1     (0x(B https://pypi.python.org/pypi/srsly              (0x(B
+(0x(B thinc                (0x(B 7.4.5      (0x(B 8.0.2     (0x(B https://pypi.python.org/pypi/thinc              (0x(B
+(0x(B Twisted              (0x(B 18.9.0     (0x(B 21.2.0    (0x(B https://pypi.python.org/pypi/Twisted            (0x(B
+(0x(B zipp                 (0x(B 1.0.0      (0x(B 3.4.1     (0x(B https://pypi.python.org/pypi/zipp               (0x(B
+(0x(B zope.interface       (0x(B 4.7.1      (0x(B 5.4.0     (0x(B https://pypi.python.org/pypi/zope.interface     (0x(B
+(0mqqqqqqqqqqqqqqqqqqqqqqvqqqqqqqqqqqqvqqqqqqqqqqqvqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj(B
+
+(0lqqqqqqqqqqqqqqqqqqqqqqwqqqqqqqqqqqqqqqwqqqqqqqqwqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqk(B
+(0x(B [93mMinor Release Update[39m (0x(B Version       (0x(B Latest (0x(B                                                 (0x(B
+(0tqqqqqqqqqqqqqqqqqqqqqqnqqqqqqqqqqqqqqqnqqqqqqqqnqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqu(B
+(0x(B Click                (0x(B 7.0           (0x(B 7.1.2  (0x(B https://pypi.python.org/pypi/Click              (0x(B
+(0x(B crit                 (0x(B 0.0.1         (0x(B 0.1    (0x(B https://pypi.python.org/pypi/crit               (0x(B
+(0x(B distro               (0x(B 1.4.0         (0x(B 1.5.0  (0x(B https://pypi.python.org/pypi/distro             (0x(B
+(0x(B gast                 (0x(B 0.3.3         (0x(B 0.4.0  (0x(B https://pypi.python.org/pypi/gast               (0x(B
+(0x(B graphviz             (0x(B 0.8.4         (0x(B 0.16   (0x(B https://pypi.python.org/pypi/graphviz           (0x(B
+(0x(B grpcio               (0x(B 1.32.0        (0x(B 1.37.0 (0x(B https://pypi.python.org/pypi/grpcio             (0x(B
+(0x(B httplib2             (0x(B 0.14.0        (0x(B 0.19.1 (0x(B https://pypi.python.org/pypi/httplib2           (0x(B
+(0x(B Jinja2               (0x(B 2.10.1        (0x(B 2.11.3 (0x(B https://pypi.python.org/pypi/Jinja2             (0x(B
+(0x(B jsonpatch            (0x(B 1.22          (0x(B 1.32   (0x(B https://pypi.python.org/pypi/jsonpatch          (0x(B
+(0x(B jsonpointer          (0x(B 2.0           (0x(B 2.1    (0x(B https://pypi.python.org/pypi/jsonpointer        (0x(B
+(0x(B lazr.restfulclient   (0x(B 0.14.2        (0x(B 0.14.3 (0x(B https://pypi.python.org/pypi/lazr.restfulclient (0x(B
+(0x(B lazr.uri             (0x(B 1.0.3         (0x(B 1.0.5  (0x(B https://pypi.python.org/pypi/lazr.uri           (0x(B
+(0x(B MarkupSafe           (0x(B 1.1.0         (0x(B 1.1.1  (0x(B https://pypi.python.org/pypi/MarkupSafe         (0x(B
+(0x(B netifaces            (0x(B 0.10.4        (0x(B 0.10.9 (0x(B https://pypi.python.org/pypi/netifaces          (0x(B
+(0x(B pexpect              (0x(B 4.6.0         (0x(B 4.8.0  (0x(B https://pypi.python.org/pypi/pexpect            (0x(B
+(0x(B plac                 (0x(B 1.1.3         (0x(B 1.3.3  (0x(B https://pypi.python.org/pypi/plac               (0x(B
+(0x(B pyasn1               (0x(B 0.4.2         (0x(B 0.4.8  (0x(B https://pypi.python.org/pypi/pyasn1             (0x(B
+(0x(B pyasn1-modules       (0x(B 0.2.1         (0x(B 0.2.8  (0x(B https://pypi.python.org/pypi/pyasn1-modules     (0x(B
+(0x(B Pygments             (0x(B 2.3.1         (0x(B 2.8.1  (0x(B https://pypi.python.org/pypi/Pygments           (0x(B
+(0x(B PyGObject            (0x(B 3.36.0        (0x(B 3.40.1 (0x(B https://pypi.python.org/pypi/PyGObject          (0x(B
+(0x(B PyNaCl               (0x(B 1.3.0         (0x(B 1.4.0  (0x(B https://pypi.python.org/pypi/PyNaCl             (0x(B
+(0x(B pyparted             (0x(B 3.11.2        (0x(B 3.11.7 (0x(B https://pypi.python.org/pypi/pyparted           (0x(B
+(0x(B pyrsistent           (0x(B 0.15.5        (0x(B 0.17.3 (0x(B https://pypi.python.org/pypi/pyrsistent         (0x(B
+(0x(B pyserial             (0x(B 3.4           (0x(B 3.5    (0x(B https://pypi.python.org/pypi/pyserial           (0x(B
+(0x(B python-debian        (0x(B 0.1.36ubuntu1 (0x(B 0.1.39 (0x(B https://pypi.python.org/pypi/python-debian      (0x(B
+(0x(B PyYAML               (0x(B 5.3.1         (0x(B 5.4.1  (0x(B https://pypi.python.org/pypi/PyYAML             (0x(B
+(0x(B requests             (0x(B 2.22.0        (0x(B 2.25.1 (0x(B https://pypi.python.org/pypi/requests           (0x(B
+(0x(B scikit-learn         (0x(B 0.22.2.post1  (0x(B 0.24.1 (0x(B https://pypi.python.org/pypi/scikit-learn       (0x(B
+(0x(B simplejson           (0x(B 3.16.0        (0x(B 3.17.2 (0x(B https://pypi.python.org/pypi/simplejson         (0x(B
+(0x(B ssh-import-id        (0x(B 5.10          (0x(B 5.11   (0x(B https://pypi.python.org/pypi/ssh-import-id      (0x(B
+(0x(B torch                (0x(B 1.8.0+cpu     (0x(B 1.8.1  (0x(B https://pypi.python.org/pypi/torch              (0x(B
+(0x(B torchaudio           (0x(B 0.8.0         (0x(B 0.8.1  (0x(B https://pypi.python.org/pypi/torchaudio         (0x(B
+(0x(B torchvision          (0x(B 0.9.0+cpu     (0x(B 0.9.1  (0x(B https://pypi.python.org/pypi/torchvision        (0x(B
+(0x(B urllib3              (0x(B 1.25.8        (0x(B 1.26.4 (0x(B https://pypi.python.org/pypi/urllib3            (0x(B
+(0x(B wadllib              (0x(B 1.3.3         (0x(B 1.3.5  (0x(B https://pypi.python.org/pypi/wadllib            (0x(B
+(0mqqqqqqqqqqqqqqqqqqqqqqvqqqqqqqqqqqqqqqvqqqqqqqqvqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj(B
+
+(0lqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqwqqqqqqqqqqqqqwqqqqqqqqwqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqk(B
+(0x(B [90mUnknown Package Release Status[39m (0x(B Version     (0x(B Latest (0x(B                                          (0x(B
+(0tqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqnqqqqqqqqqqqqqnqqqqqqqqnqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqu(B
+(0x(B distro-info                    (0x(B 0.23ubuntu1 (0x(B 0.10   (0x(B https://pypi.python.org/pypi/distro-info (0x(B
+(0mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqvqqqqqqqqqqqqqvqqqqqqqqvqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj(B
